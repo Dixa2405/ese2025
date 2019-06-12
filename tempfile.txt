@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 3 diksha diksha 4096 Jun 11 22:32 coding
+-rw-r--r-- 1 diksha diksha 1066 May 29 12:29 LICENSE
+-rw-r--r-- 1 diksha diksha    0 Jun 12 11:57 tempfile.txt
