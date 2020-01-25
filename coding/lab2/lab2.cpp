@@ -3,14 +3,12 @@
  *  Created on: Jul. 9, 2019
  *   Author: diksha
  
-
 #include <iostream>
 #include <vector>
 #include <string>
 #include <algorithm>
 using std::cout; using std::cin; using std::vector;
 using std::endl; using std::sort; using std:: string;
-
 
 int main()
 {
