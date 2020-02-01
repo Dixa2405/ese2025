@@ -10,9 +10,8 @@
 using std::cout; using std::cin; using std::vector;
 using std::endl; using std::sort; using std:: string;
 
-int main()
-{
-    vector<string> array ;
+int main()            
+    { vector<string> array ;
     string ab;
     cout<< "Enter words for sorting. press <CTRL><D> to signal EoF"<<endl;
     while(cin>>ab)
