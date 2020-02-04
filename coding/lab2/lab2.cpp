@@ -27,5 +27,4 @@ int main()
     for (int i  = 0; i < s; ++i)
    	{cout<< array[i]<<endl;}
 
-
 }
