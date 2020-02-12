@@ -23,7 +23,7 @@ int main()
     {
         cout<<"NO WORDS"<<endl;
         return 1;
-    }
+   }
     for (int i  = 0; i < s; ++i)
    	{cout<< array[i]<<endl;}
 }
